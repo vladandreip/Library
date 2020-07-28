@@ -15,3 +15,5 @@ const val COmmon6 = "Asdfg"
 //And another one
 //This one is from the main project
 //Another one added from the main shit
+
+//Add something from application
