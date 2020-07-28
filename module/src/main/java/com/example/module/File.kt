@@ -19,3 +19,4 @@ const val COmmon6 = "Asdfg"
 //Add something from application
 
 //This is a message that I added from a new created branch
+//Make some magic
